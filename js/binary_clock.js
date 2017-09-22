@@ -1,3 +1,8 @@
+// A BCD clock in p5.js by Arjen Klaverstijn, http://www.arjenklaverstijn.com, info@arjenklaverstijn.com, 2017
+// Based on info from: https://en.wikipedia.org/wiki/Binary-coded_decimal
+// As a part of Daniel Shiffman's coding challenge #74: https://www.youtube.com/watch?v=E4RyStef-gY
+// P5.js can be found at: https://p5js.org
+
 var diameter = 60,
     spacing = 10,
     padding = diameter + spacing;
